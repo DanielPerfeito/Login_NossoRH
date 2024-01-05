@@ -1,7 +1,7 @@
 
 # Nosso*RH* 🤝
 
-Uma página de login responsiva para um empresa ficticia de RH. Este foi um projeto pessoal desenvolvido com a finalidade de exercitar os conhecimentos recém adiquiridos em *Sass*.
+Uma página de login responsiva para um empresa ficticia de RH. Este foi um projeto pessoal desenvolvido com a finalidade de exercitar os conhecimentos recém adiquiridos em **Sass**.
 
 
 ## Stacks utilizadas
@@ -14,6 +14,11 @@ Uma página de login responsiva para um empresa ficticia de RH. Este foi um proj
 
 
 
+
+
+## Licença
+
+**[MIT](https://choosealicense.com/licenses/mit/)** 📄
 
 
 ## Links
