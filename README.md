@@ -1,9 +1,5 @@
-
-# Nosso*RH* 🤝
-
+# Nosso***RH*** 🤝
 Uma página de login responsiva para um empresa ficticia de RH. Este foi um projeto pessoal desenvolvido com a finalidade de exercitar os conhecimentos recém adiquiridos em **Sass**.
-
-
 ## Stacks utilizadas
 
 
@@ -15,12 +11,14 @@ Uma página de login responsiva para um empresa ficticia de RH. Este foi um proj
 
 
 
-
 ## Licença
 
-**[MIT](https://choosealicense.com/licenses/mit/)** 📄
+**[MIT](https://choosealicense.com/licenses/mit/)** 📄✔️
 
 
+## Status
+
+**Concluído** ✅
 ## Links
 
 **Link do projeto:** https://danielperfeito.github.io/Login_NossoRH/ 🌐
